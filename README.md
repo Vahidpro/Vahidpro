@@ -1,9 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
 # About Me:
-**English: ** I'm a front-end engineer with a strong passion for learning new technologies. I believes that curiosity is the gateway to learning anything. I am addicted to learning about everything which has helped me tremendously in my career.
+**English:**
+I'm a front-end engineer with a strong passion for learning new technologies. I believes that curiosity is the gateway to learning anything. I am addicted to learning about everything which has helped me tremendously in my career.
 
-**فارسی:‌ **
+
+**فارسی:**
 من یک توسعه دهنده فرانت اند هستم و علاقه شدیدی به یادگیری تکنولوژی های جدید دارم، معتقدم که کنجکاوی دری به سوی یادگیری هر چیزی هست، این اعتیاد به یادگیری بهم کمک کرده تا چیزهای فوق العاده ای که برای این حرفه نیازه فرا بگیرم.
 
 <!--
