@@ -9,6 +9,12 @@
 **FA**
 > من یک توسعه دهنده فرانت اند هستم و علاقه شدیدی به یادگیری تکنولوژی های جدید دارم، معتقدم که کنجکاوی دری به سوی یادگیری هر چیزی هست، این اعتیاد به یادگیری بهم کمک کرده تا چیزهای فوق العاده ای که برای این حرفه نیازه فرا بگیرم.
 
+## Skills:
+- Javascript
+- React
+- HTML
+- CSS
+- Hooks
 <!--
 **Vahidpro/Vahidpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
