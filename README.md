@@ -13,7 +13,8 @@
 - Javascript (ES6)
 - React (Hooks, Redux)
 - HTML
-- CSS (Scss, Sass)
+- CSS (Scss, Sass
+- Version Control Systems (Git, Github)
 
 <!--
 **Vahidpro/Vahidpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
