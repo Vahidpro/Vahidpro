@@ -13,7 +13,7 @@
 - Javascript (ES6)
 - React (Hooks, Redux)
 - HTML
-- CSS (Scss, Sass
+- CSS (Scss, Sass)
 - Version Control Systems (Git, Github)
 
 <!--
