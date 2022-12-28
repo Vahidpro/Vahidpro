@@ -11,9 +11,10 @@
 
 ## Skills:
 - Javascript (ES6)
-- HTML
-- CSS
 - React (Hooks, Redux)
+- HTML
+- CSS (Scss, Sass)
+
 <!--
 **Vahidpro/Vahidpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
