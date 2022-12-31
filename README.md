@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# About Me:
+# About Me
 
 **ENG**
 > I'm a front-end engineer with a strong passion for learning new technologies. I believes that curiosity is the gateway to learning anything. I am addicted to learning about everything which has helped me tremendously in my career.
@@ -9,7 +9,7 @@
 **FA**
 > من یک توسعه دهنده فرانت اند هستم و علاقه شدیدی به یادگیری تکنولوژی های جدید دارم، معتقدم که کنجکاوی دری به سوی یادگیری هر چیزی هست، این اعتیاد به یادگیری بهم کمک کرده تا چیزهای فوق العاده ای که برای این حرفه نیازه فرا بگیرم.
 
-## Skills:
+## Skills
 - Javascript (ES6)
 - React (Hooks, Redux)
 - HTML
