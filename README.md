@@ -11,7 +11,7 @@
 
 ## Skills
 - Javascript (ES6)
-- React (Hooks, Redux)
+- React (Hooks, Redux, Router)
 - HTML
 - CSS (Scss, Sass)
 - Version Control Systems (Git, Github)
