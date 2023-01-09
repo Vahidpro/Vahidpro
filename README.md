@@ -12,7 +12,7 @@
 ## Skills
 - Javascript (ES6)
 - **React** (Hooks, Redux, Router, Next.js)
--   Authentication using Firebase and other APIs
+  - Authentication using Firebase and other APIs
 - HTML
 - CSS (Scss, Sass)
 - Version Control Systems (Git, Github)
