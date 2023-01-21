@@ -17,6 +17,7 @@
   - Redux
   - React Router
   - Next.js
+- **React Native**
 - **HTML**
 - **CSS** (Scss, Sass)
 - **Version Control Systems**
