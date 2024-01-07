@@ -10,7 +10,7 @@
 > من یک توسعه دهنده فرانت اند هستم و علاقه شدیدی به یادگیری تکنولوژی های جدید دارم، معتقدم که کنجکاوی دری به سوی یادگیری هر چیزی هست، این اعتیاد به یادگیری بهم کمک کرده تا چیزهای فوق العاده ای که برای این حرفه نیازه فرا بگیرم.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,redux,git,github,figma,firebase,netlify)](https://vahidpro.github.io/cv/)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,redux,git,github,figma,firebase,netlify)](https://vahidpro.github.io/cv/)
 - **Javascript** (ES6)
 - **React**
   - Hooks
