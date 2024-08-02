@@ -24,6 +24,7 @@
   - Git
   - Github
 - **Authentication** using Firebase and other APIs
+- **PWA** Service Workers
 
 <!--
 **Vahidpro/Vahidpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
