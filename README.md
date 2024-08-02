@@ -11,15 +11,15 @@
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,react,redux,git,github,figma,firebase,netlify)](https://vahidpro.github.io/cv/)
-- **Javascript** (ES6)
+- **JavaScript** (ES6)
 - **React**
   - Hooks
   - Redux
   - React Router
-- **Next.js**  
+- **Next.js**
 - **React Native**
 - **HTML**
-- **CSS** (Scss, Sass)
+- **CSS** (Sass, Tailwind, Bootstrap, MUI)
 - **Version Control Systems**
   - Git
   - Github
