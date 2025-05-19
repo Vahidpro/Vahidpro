@@ -21,8 +21,6 @@
 - **HTML**
 - **CSS** (Sass, Tailwind, Bootstrap, MUI)
 - **Version Control Systems**
-  - Git
-  - Github
 - **Authentication** using Firebase and other APIs
 - **PWA** Service Workers
 
