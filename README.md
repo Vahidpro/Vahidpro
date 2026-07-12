@@ -1,39 +1,28 @@
-## Hi there 👋
+# Hi, I'm Vahid 👋
 
-# About Me
+**Full-Stack Developer — frontend-focused**
 
-**ENG**
-> I'm a front-end engineer with a strong passion for learning new technologies. I believes that curiosity is the gateway to learning anything. I am addicted to learning about everything which has helped me tremendously in my career.
+I build products end to end: React, Next.js and TypeScript on the front,
+Python and Django on the back. I've shipped frontend at scale — a SaaS
+platform serving **300,000+ users**, with **40% faster** page loads — and
+I'm now extending that ownership into the backend and AI-assisted workflows.
 
+Curiosity is my default setting: I learn relentlessly, and it's carried my
+whole career.
 
-**FA**
-> من یک توسعه دهنده فرانت اند هستم و علاقه شدیدی به یادگیری تکنولوژی های جدید دارم، معتقدم که کنجکاوی دری به سوی یادگیری هر چیزی هست، این اعتیاد به یادگیری بهم کمک کرده تا چیزهای فوق العاده ای که برای این حرفه نیازه فرا بگیرم.
+### 🔭 Currently
+Full-stack (frontend-focused) at **Dobare** — building REST APIs with
+Python/Django on PostgreSQL, while leading the frontend in Next.js, React
+and TypeScript.
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=tailwind,js,python,react,redux,git,github,netlify)](https://vahidpro.github.io/cv/)
-- **JavaScript** (ES6)
-- **React**
-  - Hooks
-  - Redux
-  - React Router
-- **Next.js**
-- **React Native**
-- **HTML**
-- **CSS** (Sass, Tailwind, Bootstrap, MUI)
-- **Version Control Systems**
-- **Authentication** using Firebase and other APIs
-- **PWA** Service Workers
+### 🧰 Tech
+[![My stack](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,python,django,postgres,nodejs,jest,git,docker)](https://vahidparsafar.com/en)
 
-<!--
-**Vahidpro/Vahidpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔗 Elsewhere
+- 🌐 Portfolio — **[vahidparsafar.com](https://vahidparsafar.com/en)**
+- ✍️ Blog — **[Notes on frontend & building bilingual UIs](https://vahidparsafar.com/en/blog)**
+- 💼 LinkedIn — **[in/vahidparsafar](https://www.linkedin.com/in/vahidparsafar/)**
+- 𝕏 — **[@Vahidpr](https://x.com/Vahidpr)**
+- 📫 **ivahidp@gmail.com**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>Bilingual (fa/en) · Tehran</sub>
