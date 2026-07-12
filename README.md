@@ -18,11 +18,8 @@ and TypeScript.
 ### 🧰 Tech
 [![My stack](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,python,django,postgres,nodejs,jest,git,docker)](https://vahidparsafar.com/en)
 
-### 🔗 Elsewhere
-- 🌐 Portfolio — **[vahidparsafar.com](https://vahidparsafar.com/en)**
-- ✍️ Blog — **[Notes on frontend & building bilingual UIs](https://vahidparsafar.com/en/blog)**
-- 💼 LinkedIn — **[in/vahidparsafar](https://www.linkedin.com/in/vahidparsafar/)**
-- 𝕏 — **[@Vahidpr](https://x.com/Vahidpr)**
-- 📫 **ivahidp@gmail.com**
+### ✍️ Writing
+I write about frontend, performance, and AI-assisted development.
+**[Read the blog →](https://vahidparsafar.com/en/blog)**
 
 <sub>Bilingual (fa/en) · Tehran</sub>
