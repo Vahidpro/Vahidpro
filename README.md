@@ -19,7 +19,7 @@ and TypeScript.
 [![My stack](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,python,django,postgres,nodejs,jest,git,docker)](https://vahidparsafar.com/en)
 
 ### ✍️ Writing
-I write about frontend, performance, and AI-assisted development.
+I write about frontend, performance, AI-assisted development, and soft skills.
 **[Read the blog →](https://vahidparsafar.com/en/blog)**
 
 <sub>Bilingual (fa/en) · Tehran</sub>
